@@ -7,7 +7,7 @@ This is an application that allows you to search for images using deep learning 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/image-search.git
+    git clone https://github.com/vishwajeetvishwakarma/image_search_using_clip.git
     ```
 
 2. Install the required dependencies:
