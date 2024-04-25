@@ -2,6 +2,10 @@
 
 This is an application that allows you to search for images using deep learning techniques.
 
+## Demo Video of Image Search Application
+
+[![Demo Video](./image%20search%20app%20poster.png)](./Image%20Search%20Application.mp4)
+
 ## Installation
 
 1. Clone the repository:
